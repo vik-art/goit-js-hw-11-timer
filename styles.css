@@ -37,6 +37,9 @@ p {
   .timer {
     width: 90%;
     flex-wrap: wrap;
-    font-size: 20px;
+    font-size: 25px;
+  }
+  .label {
+    font-size: 16px;
   }
 }
