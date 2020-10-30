@@ -30,3 +30,13 @@ p {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+@media screen and (max-width: 767px) {
+  p {
+    font-size: 16px;
+  }
+  .timer {
+    width: 100%;
+    flex-wrap: wrap;
+    font-size: 20px;
+  }
+}
