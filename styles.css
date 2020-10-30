@@ -30,6 +30,9 @@ p {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.field {
+  width: calc(100% / 4);
+}
 .label {
   font-size: 35px;
 }
