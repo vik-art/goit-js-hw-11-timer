@@ -34,7 +34,7 @@ class CountdownTimer {
     }
 const timer = new CountdownTimer({    
     selector: '#timer-1',
-    targetDate: new Date('Dec 01, 2020'),
+    targetDate: new Date('Dec 01, 2021'),
     onTick: updateClockFace
 })
 function updateClockFace({days, hours, mins, secs}) {
